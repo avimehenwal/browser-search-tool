@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "bash -lc 'mkdir -p out/browser-search-tool && cp out/index.html out/browser-search-tool/index.html && ln -sfn ../_next out/browser-search-tool/_next && python3 -m http.server 3000 --directory out'",
+    "ghpages:deploy": "bash ./scripts/ghpages-deploy.sh",
     "lint": "eslint"
   },
   "dependencies": {
