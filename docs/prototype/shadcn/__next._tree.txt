@@ -1,0 +1,2 @@
+:HL["/browser-search-tool/_next/static/chunks/037e-x2a.ytp0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"prototype","param":null,"prefetchHints":0,"slots":{"children":{"name":"shadcn","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Zq9dYTNdOv0Xn_LjWSaoo"}
