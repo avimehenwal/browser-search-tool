@@ -16,6 +16,11 @@ export default function RootLayout({
       className={cn("h-full", "antialiased", "font-sans")}
     >
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.__NEXT_PUBLIC_BASE_PATH__ = "/browser-search-tool";`,
+          }}
+        />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"

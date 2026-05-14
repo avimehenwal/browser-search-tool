@@ -20,6 +20,14 @@ import {
 } from "@hugeicons/core-free-icons";
 import { HugeiconsIcon } from "@hugeicons/react";
 
+// Helper to get base path from window or environment
+const getBasePath = (): string => {
+  if (typeof window !== "undefined") {
+    return (window as any).__NEXT_PUBLIC_BASE_PATH__ || "";
+  }
+  return "";
+};
+
 // This is sample data.
 const data = {
   navMain: [
@@ -31,27 +39,27 @@ const data = {
     },
     {
       title: "Search",
-      url: "/search",
+      url: `/browser-search-tool/search`,
       icon: <HugeiconsIcon icon={SearchIcon} strokeWidth={2} />,
     },
     {
       title: "Management",
-      url: "/management",
+      url: `/browser-search-tool/management`,
       icon: <HugeiconsIcon icon={CubeIcon} strokeWidth={2} />,
     },
     {
       title: "Add Items",
-      url: "/management/add",
+      url: `/browser-search-tool/management/add`,
       icon: <HugeiconsIcon icon={PlusSignIcon} strokeWidth={2} />,
     },
     {
       title: "Analytics",
-      url: "/analytics",
+      url: `/browser-search-tool/analytics`,
       icon: <HugeiconsIcon icon={ChartIcon} strokeWidth={2} />,
     },
     {
       title: "API Reference",
-      url: "/api-demo",
+      url: `/browser-search-tool/api-demo`,
       icon: <HugeiconsIcon icon={SourceCodeIcon} strokeWidth={2} />,
     },
   ],

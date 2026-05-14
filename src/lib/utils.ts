@@ -8,9 +8,15 @@ export function cn(...inputs: ClassValue[]) {
 
 export async function fetchSampleData(): Promise<Result[]> {
   try {
-    const res = await fetch("/sample.data.json");
+    // Handle basePath for GitHub Pages static export
+    const basePath =
+      typeof window !== "undefined"
+        ? (window as any).__NEXT_PUBLIC_BASE_PATH__ || ""
+        : "";
+    const url = `${basePath}/sample.data.json`;
+    const res = await fetch(url);
     if (!res.ok) {
-      console.error("fetchSampleData error", res.statusText);
+      console.error("fetchSampleData error", res.statusText, "url:", url);
       return [];
     }
     const json = await res.json();
