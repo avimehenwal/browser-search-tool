@@ -1,0 +1,854 @@
+{
+  "data": [
+    {
+      "suchtext": "J.Morris, Manchester Utd inside right 7th January 1948 UnitedArchives00421717 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "0059987730",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1900",
+      "hoehe": "2460",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Michael Jackson 11 95 her Mann Musik Gesang Pop USA Hemd leger Studio hoch ganz stehend Bühne UnitedArchives00421718 PUBLICATIONxINxONLY",
+      "bildnummer": "0056821849",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "01.11.1995",
+      "hoehe": "948",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Barack Obama 2013 USA Präsident Politik Washington D.C. Red carpet Gala UnitedArchives00421719 PUBLICATIONxGERxONLY",
+      "bildnummer": "0078912345",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "15.02.2013",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Emma Watson 2018 Schauspielerin Aktivist Harry Potter Film",
+      "bildnummer": "0089054321",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "22.06.2018",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Leonardo da Vinci 1503 Maler Künstler Renaissance Italien",
+      "bildnummer": "0012345678",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "01.01.1503",
+      "hoehe": "1800",
+      "breite": "2400"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421720 PUBLICATIONxINxONLY",
+      "bildnummer": "10000001",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421721 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000002",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421722 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000003",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421723 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000004",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421724 PUBLICATIONxINxONLY",
+      "bildnummer": "10000005",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421725 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000006",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421726 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000007",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000008",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000009",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000010",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000011",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000012",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000013",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000014",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000015",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000016",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000017",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000018",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000019",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000020",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000021",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000022",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000023",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000024",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000025",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000026",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000027",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000028",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000029",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000030",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000031",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000032",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000033",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000034",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000035",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000036",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000037",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000038",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000039",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000040",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000041",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000042",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000043",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000044",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000045",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000046",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000047",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000048",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000049",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000050",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000051",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000052",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000053",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000054",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000055",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000056",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000057",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000058",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000059",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000060",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000061",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000062",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000063",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000064",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000065",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000066",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000067",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000068",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000069",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000070",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000071",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000072",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000073",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000074",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000075",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000076",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000077",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000078",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000079",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000080",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000081",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000082",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000083",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000084",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000085",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000086",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000087",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000088",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000089",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000090",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    },
+
+    {
+      "suchtext": "John Smith portrait 01.01.1950 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000091",
+      "fotografen": "IMAGO / United Archives International",
+      "datum": "01.01.1950",
+      "hoehe": "1800",
+      "breite": "3643"
+    },
+    {
+      "suchtext": "Anna Müller concert 12.05.1965 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000092",
+      "fotografen": "IMAGO / teutopress",
+      "datum": "12.05.1965",
+      "hoehe": "2400",
+      "breite": "1440"
+    },
+    {
+      "suchtext": "Carlos Santana press conference 23.09.1978 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000093",
+      "fotografen": "IMAGO / Getty Images",
+      "datum": "23.09.1978",
+      "hoehe": "3000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Maria Gomez match 11.11.1985 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000094",
+      "fotografen": "IMAGO / Reuters",
+      "datum": "11.11.1985",
+      "hoehe": "2500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "David Beckham gala 05.06.1990 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000095",
+      "fotografen": "IMAGO / National Gallery",
+      "datum": "05.06.1990",
+      "hoehe": "3600",
+      "breite": "2400"
+    },
+    {
+      "suchtext": "Lionel Messi studio session 07.07.1995 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000096",
+      "fotografen": "IMAGO / AFP",
+      "datum": "07.07.1995",
+      "hoehe": "2000",
+      "breite": "1800"
+    },
+    {
+      "suchtext": "Serena Williams premiere 15.02.2013 UnitedArchives00421716 PUBLICATIONxINxGERxSUIxAUTxONLY",
+      "bildnummer": "10000097",
+      "fotografen": "IMAGO / ZUMA Press",
+      "datum": "15.02.2013",
+      "hoehe": "1500",
+      "breite": "2000"
+    },
+    {
+      "suchtext": "Usain Bolt exhibition 22.06.2018 UnitedArchives00421716 PUBLICATIONxINxGERxONLY",
+      "bildnummer": "10000098",
+      "fotografen": "IMAGO / Photo Agency",
+      "datum": "22.06.2018",
+      "hoehe": "4000",
+      "breite": "4000"
+    },
+    {
+      "suchtext": "Marilyn Monroe protest 01.01.2000 UnitedArchives00421716 PUBLICATIONxINxONLY",
+      "bildnummer": "10000099",
+      "fotografen": "IMAGO / Icon Sportswire",
+      "datum": "01.01.2000",
+      "hoehe": "3500",
+      "breite": "3500"
+    },
+    {
+      "suchtext": "Charlie Chaplin parade 30.12.2010 UnitedArchives00421716 PUBLICATIONxGERxONLY",
+      "bildnummer": "10000100",
+      "fotografen": "IMAGO / Ronald Press",
+      "datum": "30.12.2010",
+      "hoehe": "2900",
+      "breite": "2900"
+    }
+  ]
+}
