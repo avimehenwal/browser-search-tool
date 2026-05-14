@@ -47,6 +47,31 @@ find docs -name '*.html' -print0 | while IFS= read -r -d '' file; do
   done
   rm -f "${file}.bak"
 done
+echo "-> Fix internal absolute links (href/src/action) to include ${REPO_BASE} when needed"
+
+# Use a small Python script to rewrite internal absolute attributes safely.
+# This avoids mangling external links (http, https, protocol-relative //, mailto:, tel:)
+echo "Patching internal links in HTML files under docs/..."
+python3 - "${REPO_BASE}" <<'PY'
+import sys, pathlib, re
+
+base = sys.argv[1]
+root = pathlib.Path('docs')
+pat = re.compile(r'(href|src|action)=(["\'])\/(?!' + re.escape(base.lstrip('/')) + r'|https?:|//|#|mailto:|tel:)([^"\']*)\2')
+
+def repl(m):
+    attr = m.group(1)
+    q = m.group(2)
+    path = m.group(3)
+    return f"{attr}={q}{base}/{path}{q}"
+
+for p in root.rglob('*.html'):
+    s = p.read_text(encoding='utf-8')
+    s2 = pat.sub(repl, s)
+    if s2 != s:
+        print('patched', p)
+        p.write_text(s2, encoding='utf-8')
+PY
 
 echo "docs/ snapshot (top-level):"
 ls -la docs || true
