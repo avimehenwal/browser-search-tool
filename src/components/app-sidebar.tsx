@@ -33,7 +33,7 @@ const data = {
   navMain: [
     {
       title: "Home",
-      url: "/#",
+      url: "/browser-search-tool/",
       icon: <HugeiconsIcon icon={HomeIcon} strokeWidth={2} />,
       isActive: true,
     },
