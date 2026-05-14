@@ -11,7 +11,8 @@ export async function fetchSampleData(): Promise<Result[]> {
     // Handle basePath for GitHub Pages static export
     const basePath =
       typeof window !== "undefined"
-        ? (window as any).__NEXT_PUBLIC_BASE_PATH__ || ""
+        ? (window as { __NEXT_PUBLIC_BASE_PATH__?: string })
+            .__NEXT_PUBLIC_BASE_PATH__ || ""
         : "";
     const url = `${basePath}/sample.data.json`;
     const res = await fetch(url);

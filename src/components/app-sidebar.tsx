@@ -20,14 +20,6 @@ import {
 } from "@hugeicons/core-free-icons";
 import { HugeiconsIcon } from "@hugeicons/react";
 
-// Helper to get base path from window or environment
-const getBasePath = (): string => {
-  if (typeof window !== "undefined") {
-    return (window as any).__NEXT_PUBLIC_BASE_PATH__ || "";
-  }
-  return "";
-};
-
 // This is sample data.
 const data = {
   navMain: [
